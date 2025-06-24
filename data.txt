@@ -1,0 +1,18 @@
+====== Monthly Business Report ======
+Company Details: 
+Name: xyz 
+Owner: Jhon
+Capital: 10000000
+
+ALERT: Your capital has reached the threshold of 0 PKR.
+
+Financial Summary:
+Total Income: 6.7e+06 PKR
+Total Expense: 2e+06 PKR
+Total Profit (Before Tax): 4.7e+06 PKR
+Tax Amount (15%): 705000 PKR
+Total Profit (After Tax): 4.7e+06 PKR
+Shareholder Profit Distribution: 
+Name: Jhon, Shares: 700, Profit: 2.7965e+06 PKR
+Name: Doe, Shares: 300, Profit: 1.1985e+06 PKR
+====================================

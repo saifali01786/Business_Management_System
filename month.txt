@@ -1,0 +1,16 @@
+--- Monthly Financial Report for xyz  (Month 1) ---
+----------------------------------------------------
+
+Income for Month 1:
+- Sales: 3000000 PKR
+Total income for month 1: 3000000 PKR
+
+Expense for Month 1:
+- Salaries: 1000000 PKR
+Total Expense for month 1: 1000000 PKR
+
+Summary for Month 1:
+  Total Income: 3000000 PKR
+  Total Expense: 1000000 PKR
+  Net Profit/Loss: 2000000 PKR
+----------------------------------------------------
